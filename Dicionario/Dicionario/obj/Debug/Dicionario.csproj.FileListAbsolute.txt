@@ -1,0 +1,7 @@
+C:\Users\Matheus Silva\source\repos\Estrutura-Dados\Dicionario\Dicionario\obj\Debug\Dicionario.csprojAssemblyReference.cache
+C:\Users\Matheus Silva\source\repos\Estrutura-Dados\Dicionario\Dicionario\obj\Debug\Dicionario.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Silva\source\repos\Estrutura-Dados\Dicionario\Dicionario\bin\Debug\Dicionario.exe.config
+C:\Users\Matheus Silva\source\repos\Estrutura-Dados\Dicionario\Dicionario\bin\Debug\Dicionario.exe
+C:\Users\Matheus Silva\source\repos\Estrutura-Dados\Dicionario\Dicionario\bin\Debug\Dicionario.pdb
+C:\Users\Matheus Silva\source\repos\Estrutura-Dados\Dicionario\Dicionario\obj\Debug\Dicionario.exe
+C:\Users\Matheus Silva\source\repos\Estrutura-Dados\Dicionario\Dicionario\obj\Debug\Dicionario.pdb
