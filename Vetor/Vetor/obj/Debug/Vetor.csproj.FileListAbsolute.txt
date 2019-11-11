@@ -1,0 +1,11 @@
+C:\Users\Matheus Silva\source\repos\Vetor\Vetor\obj\Debug\Vetor.csprojAssemblyReference.cache
+C:\Users\Matheus Silva\source\repos\Vetor\Vetor\obj\Debug\Vetor.csproj.CoreCompileInputs.cache
+C:\Users\Matheus Silva\source\repos\Vetor\Vetor\bin\Debug\Vetor.exe.config
+C:\Users\Matheus Silva\source\repos\Vetor\Vetor\bin\Debug\Vetor.exe
+C:\Users\Matheus Silva\source\repos\Vetor\Vetor\bin\Debug\Vetor.pdb
+C:\Users\Matheus Silva\source\repos\Vetor\Vetor\obj\Debug\Vetor.exe
+C:\Users\Matheus Silva\source\repos\Vetor\Vetor\obj\Debug\Vetor.pdb
+C:\Users\Matheus Silva\source\repos\Vetor\Vetor\bin\Debug\DotLiquid.dll
+C:\Users\Matheus Silva\source\repos\Vetor\Vetor\bin\Debug\DotLiquid.xml
+C:\Users\Matheus Silva\source\repos\Vetor\Vetor\bin\Debug\it\DotLiquid.resources.dll
+C:\Users\Matheus Silva\source\repos\Vetor\Vetor\obj\Debug\Vetor.csproj.CopyComplete
