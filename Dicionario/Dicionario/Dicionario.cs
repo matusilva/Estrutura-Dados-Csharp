@@ -19,7 +19,7 @@ namespace Dicionario
 
         // Linear Probing
         // h(x) =x mod13
-        private int h(int k)
+        private int lp(int k)
         {
             return k % this.hash.Length;
         }
@@ -31,7 +31,7 @@ namespace Dicionario
         }
         public object findElement(int k)
         {
-            int i = h(k);
+            int i = lp(k);
             //j = p no slide
             for (int j = 0; j < this.hash.Length; j++)
             {
@@ -77,7 +77,7 @@ namespace Dicionario
                 
                 if (opcao == 1)
                 {
-                    i = j + h(k);
+                    i = j + lp(k);
                 }
                 else
                 {
@@ -102,7 +102,7 @@ namespace Dicionario
 
         public object removeElement(int k)
         {
-            int i = h(k);
+            int i = lp(k);
             for (int j = 0; j < this.hash.Length; j++)
             {
                 No node = this.hash[i];
